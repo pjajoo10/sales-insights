@@ -16,4 +16,5 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
     3. Show total revenue in year 2020 -> `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.currency="INR\r";`
 
 3. Crate a dasboard to visualize sales/profit
-https://public.tableau.com/app/profile/prakhar.jajoo/viz/sales_insights_16507089619970/RevenueSalesDashboard
+
+    For example, https://public.tableau.com/app/profile/prakhar.jajoo/viz/sales_insights_16507089619970/RevenueSalesDashboard
