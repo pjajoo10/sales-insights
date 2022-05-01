@@ -1,4 +1,10 @@
-## Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
+
+### Dashboard
+![image](https://user-images.githubusercontent.com/103623942/166135300-51c2280c-8697-42d2-b36e-229aa1018811.png)
+
+![image](https://user-images.githubusercontent.com/103623942/166135306-021de44a-33d3-4462-9b61-fa8e57c7df9f.png)
+
 
 ### MySQL Setup
 1. Follow the detailed steps in this video to install MySQL on your local computer
